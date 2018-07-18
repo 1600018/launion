@@ -3,7 +3,7 @@
     "id": 0,
     "name": "My Home Address",
     "imageUrl": "https://scontent.fcrk2-1.fna.fbcdn.net/v/t1.0-9/14681658_104672500006541_2293344740734119231_n.jpg?_nc_cat=0&_nc_eui2=AeGwoP8-Ca6BovI36NWaPvHOG-b5kcF8kKDdUPS0h1QLrBRuwg5R9u9R-jMCpv9I_oAP_6WpbWeSI-19GUJ5zTnrJOxW7feNLiPRBjtOLh3lXg&oh=df9ef734994b58cad30439acac3d3020&oe=5BD66C4B",    
-    "price": ,
+    "price": 0,
     "priceCurrency": "PHP",
     "lat": 17.1881,
     "lng": 120.5034

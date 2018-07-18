@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "My Home Address",
-    "imageUrl": "D:\GOOGLE API FINAL 3\src\home.jpg",
+    "imageUrl": "D:/GOOGLE API FINAL 3/src/home.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 17.1881,

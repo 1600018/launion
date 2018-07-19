@@ -1,14 +1,5 @@
 [
-  {
-    "id": 0,
-    "name": "My Home Address",
-    "imageUrl": "https://github.com/1600018/launion/blob/master/home.JPG?raw=true",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 17.1881,
-    "lng": 120.5034
-  },
-  {
+    {
     "id": 1,
     "name": "San Fernando Municipal Hall",
     "imageUrl": "http://2.bp.blogspot.com/-RKXWh6UefC0/UZfGnp5-CdI/AAAAAAAAKvg/hBXhqOw1Lt0/s1600/backtrails-lakbay+sa+la+union+17.jpg",
@@ -16,6 +7,15 @@
     "priceCurrency": "PHP",
     "lat": 16.6073769,
     "lng": 120.36660989999996
+  },
+  {
+    "id": 0,
+    "name": "Pagangpang, Galimuyod, Ilocos Sur :My Home Address",
+    "imageUrl": "https://github.com/1600018/launion/blob/master/home.JPG?raw=true",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 17.1881,
+    "lng": 120.5034
   },
   {
     "id": 2,

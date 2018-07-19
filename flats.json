@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Baluarte Watch Tower",
     "imageUrl": "https://lh3.googleusercontent.com/proxy/aQISzTASbFJptMnbNuGvbgOuGRabmO8hX0kjmmItaE0KxJCIBJOHlRfb2r0xh7zxk2cmB_qGHLuoAsVVgWbvA-9A88kLn9oukX2nFD-yF_el1Z1UnErv0UqQ0cdfmsez97z9fXI2BosW21EFpVQvoPbL6fePFeg=w227-h151-k-no",
-     "price": 60,
+     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.8568,
     "lng": 120.3729

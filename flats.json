@@ -111,8 +111,8 @@
     "id": 0,
     "name": "Pagangpang, Galimuyod, Ilocos Sur :My Home Address",
     "imageUrl": "https://github.com/1600018/launion/blob/master/home.JPG?raw=true",
-    "price": ,
-    "priceCurrency": "",
+    "price": 0,
+    "priceCurrency": "km",
     "lat": 17.1881,
     "lng": 120.5034
   }

@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Puerto Princesa Underground River",
     "imageUrl": "http://cdn.touropia.com/gfx/d/famous-underground-caves-in-the-world/puerto_princesa_underground_river.jpg?v=b36f31732cbb057de840d71a7e0f1605",  
-    "price": 1,120,
+    "price": 1120,
     "priceCurrency": "km",
     "lat": 10.1926,
     "lng": 118.9266
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Chocolate Hills",
     "imageUrl": "http://cdn.touropia.com/gfx/d/natural-rock-formations/chocolate_hills.jpg?v=1",
-    "price": 1,278,
+    "price": 1278,
     "priceCurrency": "km",
     "lat": 16.8568,
     "lng": 120.3729
@@ -57,7 +57,7 @@
     "id": 7,
     "name": "The Ruins Bacolod",
     "imageUrl":"http://photos.wikimapia.org/p/00/00/77/99/54_big.jpg",
-    "price": 1,063,
+    "price": 1063,
     "priceCurrency": "km",
     "lat": 10.7093,
     "lng": 122.9826
@@ -85,7 +85,7 @@
     "name": "Taal Volcano",
     "imageUrl":"https://i0.wp.com/outoftownblog.com/wp-content/uploads/2014/09/Taal-Volcano-from-Taal-Vista-Hotel.jpg?resize=600%2C338&ssl=1",
     "price": 350,
-    "priceCurrency": "PHP",
+    "priceCurrency": "km",
     "lat": 16.3367,
     "lng": 120.4788
   },

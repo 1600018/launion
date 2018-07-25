@@ -11,8 +11,8 @@
   {
     "id": 2,
     "name": "Puerto Princesa Underground River",
-     "imageUrl": "http://cdn.touropia.com/gfx/d/famous-underground-caves-in-the-world/puerto_princesa_underground_river.jpg?v=b36f31732cbb057de840d71a7e0f1605",  
-      "price": 1,120,
+    "imageUrl": "http://cdn.touropia.com/gfx/d/famous-underground-caves-in-the-world/puerto_princesa_underground_river.jpg?v=b36f31732cbb057de840d71a7e0f1605",  
+    "price": 1,120,
     "priceCurrency": "km",
     "lat": 10.1926,
     "lng": 118.9266
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Chocolate Hills",
     "imageUrl": "http://cdn.touropia.com/gfx/d/natural-rock-formations/chocolate_hills.jpg?v=1",
-     "price": 1,278,
+    "price": 1,278,
     "priceCurrency": "km",
     "lat": 16.8568,
     "lng": 120.3729
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Boracay",
     "imageUrl": "http://cdn.touropia.com/gfx/d/best-island-reefs-around-the-world/boracay.jpg?v=1",
-     "price": 795,
+    "price": 795,
     "priceCurrency": "km",
     "lat": 16.3247,
     "lng": 120.3551
@@ -56,8 +56,8 @@
   {
     "id": 7,
     "name": "The Ruins Bacolod",
-     "imageUrl":"http://photos.wikimapia.org/p/00/00/77/99/54_big.jpg",
-      "price": 1,063,
+    "imageUrl":"http://photos.wikimapia.org/p/00/00/77/99/54_big.jpg",
+    "price": 1,063,
     "priceCurrency": "km",
     "lat": 10.7093,
     "lng": 122.9826
@@ -65,8 +65,8 @@
   {
     "id": 8,
     "name": "Rizal Park",
-      "imageUrl":"https://i1.wp.com/outoftownblog.com/wp-content/uploads/2013/11/Rizal-Monument.jpg?w=600&ssl=1",
-      "price": 351,
+    "imageUrl":"https://i1.wp.com/outoftownblog.com/wp-content/uploads/2013/11/Rizal-Monument.jpg?w=600&ssl=1",
+    "price": 351,
     "priceCurrency": "km",
     "lat": 14.5831,
     "lng": 120.9794
@@ -74,8 +74,8 @@
    {
     "id": 9,
     "name": "Hundred Islands",
- "imageUrl":"https://i1.wp.com/outoftownblog.com/wp-content/uploads/2010/03/Travel-Guide-Hundred-Islands-in-Alaminos-Pangasinan.jpg?resize=600%2C399&ssl=1",
-       "price": 213,
+    "imageUrl":"https://i1.wp.com/outoftownblog.com/wp-content/uploads/2010/03/Travel-Guide-Hundred-Islands-in-Alaminos-Pangasinan.jpg?resize=600%2C399&ssl=1",
+    "price": 213,
     "priceCurrency": "km",
     "lat": 16.2040,
     "lng": 120.0409
@@ -83,8 +83,8 @@
    {
     "id": 10,
     "name": "Taal Volcano",
- "imageUrl":"https://i0.wp.com/outoftownblog.com/wp-content/uploads/2014/09/Taal-Volcano-from-Taal-Vista-Hotel.jpg?resize=600%2C338&ssl=1",
-       "price": 350,
+    "imageUrl":"https://i0.wp.com/outoftownblog.com/wp-content/uploads/2014/09/Taal-Volcano-from-Taal-Vista-Hotel.jpg?resize=600%2C338&ssl=1",
+    "price": 350,
     "priceCurrency": "PHP",
     "lat": 16.3367,
     "lng": 120.4788
@@ -93,7 +93,7 @@
     "id": 11,
     "name": "Subic Bay",
     "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/130405-M-BA451-372_%288636779585%29.jpg/1200px-130405-M-BA451-372_%288636779585%29.jpg",
-     "price": 336,
+    "price": 336,
     "priceCurrency": "km",
     "lat": 14.7911,
     "lng": 120.2397
@@ -101,8 +101,8 @@
       {
     "id": 12,
     "name": "Manila Ocean Park",
-   "imageUrl":"https://www.manilaoceanpark.com/assets/img/home-images/amenities.jpg",
-        "price": 352,
+    "imageUrl":"https://www.manilaoceanpark.com/assets/img/home-images/amenities.jpg",
+    "price": 352,
     "priceCurrency": "km",
     "lat": 14.5792,
     "lng": 120.9725

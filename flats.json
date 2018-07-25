@@ -74,7 +74,7 @@
    {
     "id": 9,
     "name": "Hundred Islands",
-    "imageUrl":"https://i1.wp.com/outoftownblog.com/wp-content/uploads/2010/03/Travel-Guide-Hundred-Islands-in-Alaminos-Pangasinan.jpg?resize=600%2C399&ssl=1",
+    "imageUrl": "https://i1.wp.com/outoftownblog.com/wp-content/uploads/2010/03/Travel-Guide-Hundred-Islands-in-Alaminos-Pangasinan.jpg?resize=600%2C399&ssl=1",
     "price": 213,
     "priceCurrency": "km",
     "lat": 16.2040,
@@ -83,7 +83,7 @@
    {
     "id": 10,
     "name": "Taal Volcano",
-    "imageUrl":"https://i0.wp.com/outoftownblog.com/wp-content/uploads/2014/09/Taal-Volcano-from-Taal-Vista-Hotel.jpg?resize=600%2C338&ssl=1",
+    "imageUrl": "https://i0.wp.com/outoftownblog.com/wp-content/uploads/2014/09/Taal-Volcano-from-Taal-Vista-Hotel.jpg?resize=600%2C338&ssl=1",
     "price": 350,
     "priceCurrency": "km",
     "lat": 16.3367,
@@ -92,7 +92,7 @@
      {
     "id": 11,
     "name": "Subic Bay",
-    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/130405-M-BA451-372_%288636779585%29.jpg/1200px-130405-M-BA451-372_%288636779585%29.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/130405-M-BA451-372_%288636779585%29.jpg/1200px-130405-M-BA451-372_%288636779585%29.jpg",
     "price": 336,
     "priceCurrency": "km",
     "lat": 14.7911,
@@ -101,7 +101,7 @@
       {
     "id": 12,
     "name": "Manila Ocean Park",
-    "imageUrl":"https://www.manilaoceanpark.com/assets/img/home-images/amenities.jpg",
+    "imageUrl": "https://www.manilaoceanpark.com/assets/img/home-images/amenities.jpg",
     "price": 352,
     "priceCurrency": "km",
     "lat": 14.5792,
